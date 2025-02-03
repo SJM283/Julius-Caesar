@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #fff8dc;
+  padding: 20px;
+  text-align: center;
+}
+
+.highlight {
+  background-color: gold;
+}
+main {
+  font-family: monospace;
+  padding: 20px;
+}
+footer {
+  background-color: gold;
+  padding: 20px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
